@@ -108,7 +108,7 @@ If you find this app useful and would like to support me and this project:
 
 - **Follow me on GitHub**: [wthvishal](https://github.com/wthvishal)
 - **Star this project**: ⭐ If you like it, don't forget to give it a star!
-- **Fork the repository**: 🍴 Fork it to your own GitHub to make your own changes.
+- **Fork the repository**: 🍴 Fork it to your own GitHub
 - **Share**: Let others know about the app!
 
 ## Contributing
