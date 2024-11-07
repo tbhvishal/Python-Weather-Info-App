@@ -16,7 +16,7 @@ A simple and customizable weather application built with Python, utilizing Tkint
 - **Cross-Platform Support**: Works on multiple platforms (Windows, MacOS, Linux) without needing additional dependencies.
 
 ## Installation
-
+ 
 ### Step 1: Clone the repository
 
 Start by cloning the repository to your local machine:
