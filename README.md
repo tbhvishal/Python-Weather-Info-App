@@ -22,7 +22,7 @@ A simple and customizable weather application built with Python, utilizing Tkint
 Start by cloning the repository to your local machine:
 
 ```bash
-git clone https://github.com/wthvishal/Python-Weather-Info-App.git
+git clone https://github.com/tbhvishal/Python-Weather-Info-App.git
 ```
 
 ### Step 2: Install the required dependencies
@@ -106,7 +106,7 @@ DEFAULT_CITY = "New Delhi"  # Default city to show when the app starts (can be c
 
 If you find this app useful and would like to support me and this project:
 
-- **Follow me on GitHub**: [wthvishal](https://github.com/wthvishal)
+- **Follow me on GitHub**: [tbhvishal](https://github.com/tbhvishal)
 - **Star this project**: ⭐ If you like it, don't forget to give it a star!
 - **Fork the repository**: 🍴 Fork it to your own GitHub
 - **Share**: Let others know about the app!
@@ -140,6 +140,6 @@ This project is open-source and available under the MIT License.
 
 For any questions or collaboration inquiries, you can reach out via:
 
-- GitHub: [@wthvishal](https://github.com/wthvishal)
+- GitHub: [@tbhvishal](https://github.com/tbhvishal)
 
 Let's make weather info easily accessible to everyone! 🌤️
