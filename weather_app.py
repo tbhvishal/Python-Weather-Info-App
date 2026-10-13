@@ -100,7 +100,9 @@ def show_default_info():
 app = tk.Tk()  # Create the main window
 app.title("Weather Info")  # Set the window title
 app.geometry("500x400")  # Set the window size
-app.iconbitmap("assets/weather.ico") # Set the window icon
+icon = ImageTk.PhotoImage(Image.open("assets/weather.ico")) # iconbitmap method do not support ".ico" by default in Linux.
+app.wm_iconphoto(False, icon) # Set the window icon
+
 
 # Set up the background label (initialize it here)
 bg_label = tk.Label(app)
